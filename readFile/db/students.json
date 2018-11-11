@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Gali",
+        "gender": "Female",
+        "department":"CS",
+        "car": "Toyata"
+
+    },
+    {
+        "name": "Liad",
+        "gender": "Female",
+        "department":"Education",
+        "car": "Toyata"
+    }
+]
